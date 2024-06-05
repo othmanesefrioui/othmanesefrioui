@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @othmanesefrioui
 
 ## About Me
-I am currently pursuing a Master in Management in Finance and a Master in Engineering.
+I am currently pursuing a Master in Finance and a Master in Engineering.
 My academic focus is on financial markets, fixed income, derivatives, and structured products.
 I am passionate about applying my strong background in mathematics, programming, and data analysis to real-world financial challenges.
 
