@@ -21,7 +21,7 @@ I am passionate about applying my strong background in mathematics, programming,
 
 ## How to Reach Me
 - 📫 Feel free to contact me via email at othmane.sefrioui@outlook.com or connect with me on [LinkedIn](https://www.linkedin.com/in/othmanesefrioui).
-- 📱 +33(0)7.62.32.59.79
+- 📱 +33(0)#.##.##.##.##
 
 ## Fun Fact
 - ⚡ I enjoy applying game theory and mathematics to poker strategy, combining my love for numbers with competitive gameplay.
